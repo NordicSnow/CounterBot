@@ -1,0 +1,2 @@
+# CounterBot
+ A discord minigame
